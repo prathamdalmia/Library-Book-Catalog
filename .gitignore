@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# Env & secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
