@@ -37,7 +37,7 @@ This project is designed to help users manage a catalog of books in a library se
 2. Install dependencies (if required):
 
    ```bash
-   npm install
+   npm install .
    ```
 
 3. Start the application:
